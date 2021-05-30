@@ -1,0 +1,56 @@
+//MANIFIESTO
+
+// @import "abstracts/mixins";
+@import "abstracts/variables";
+
+//VENDORS
+
+//BASE
+
+@import "base/base";
+@import "base/reset";
+
+//COMPONENTS
+
+//LAYOUT
+
+@import "layout/grid";
+@import 'layout/navigation';
+@import "layout/main";
+@import "layout/list";
+@import "layout/newsletter";
+@import "layout/footer";
+@import "layout/aside";
+
+//PAGES
+
+//THEMES
+
+// @import 'abstracts/variables';
+// @import 'abstracts/functions';
+// @import 'abstracts/mixins';
+// @import 'abstracts/placeholders';
+
+// @import 'vendors/bootstrap4.6/bootstrap.scss';
+// @import 'vendors/jquery-ui';
+
+// @import 'base/reset';
+// @import 'base/typography';
+
+
+// @import 'layout/grid';
+// @import 'layout/header';
+// @import 'layout/footer';
+// @import 'layout/sidebar';
+// @import 'layout/forms';
+
+// @import 'components/buttons';
+// @import 'components/carousel';
+// @import 'components/cover';
+// @import 'components/dropdown';
+
+// @import 'pages/home';
+// @import 'pages/contact';
+
+// @import 'themes/theme';
+// @import 'themes/admin';

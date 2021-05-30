@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "inicio proyecto"
+sass --watch assets/scss/main.scss assets/css/style.css
